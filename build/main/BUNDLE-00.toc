@@ -1,0 +1,1 @@
+([('main', '/Users/adrian/GitHub/Drug_Sorter/dist/main', 'EXECUTABLE')],)
